@@ -1,2 +1,2 @@
 # my-project
-Repository untuk menyimpan project
+Program Inventory menggunakan visual basic 6.0 dan crystal report
